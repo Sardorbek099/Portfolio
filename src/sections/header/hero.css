@@ -1,0 +1,73 @@
+.hero_section {
+    margin: 25px 0;
+}
+
+.hero_col1 {
+    width: 715px;
+}
+
+.hero_title {
+    font-family: 'Roboto';
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 82.5px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 90px;
+}
+
+.hero_span {
+    color: rgba(255, 138, 86, 1);
+    line-height: 83px;
+}
+
+.hero_description {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(102, 102, 102, 1);
+    margin: 33px 0 38px 0;
+}
+
+.hero_button1 {
+    background-color: rgba(0, 0, 0, 1);
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    padding: 18px 33px 23px 29px;
+    border: none;
+}
+
+.hero_link {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin: 17px 40px;
+}
+.hero_link_icon{
+    width: 14px;
+    height: 14px;
+    margin-right: 45px;
+    margin-top: 22px;
+    margin-left: -10px;
+}
+
+.hero_col2{
+    width: 500px;
+}
+.hero_col2 img{
+    margin-top: 45px;
+}

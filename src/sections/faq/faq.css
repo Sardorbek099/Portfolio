@@ -1,0 +1,67 @@
+.faq_section {
+    padding-top: 78px;
+    padding-bottom: 72px;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.faq_title {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 4px;
+    text-align: center;
+    color: rgba(255, 138, 86, 1);
+    margin-left: -7px;
+}
+
+.faq_text {
+    font-family: 'Roboto';
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    margin: 18px 0 152px 0;
+    margin-left: -47px;
+}
+
+.faq-col {
+    width: 583.19px;
+}
+
+.faq_card {
+    padding-bottom: 51px;
+    border-bottom: 1px solid rgba(229, 229, 229, 0.3);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.faq_card_title {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.30000001192092896px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.faq_card img{
+    width: 24px;
+    height: 24px;
+    margin: 3.18px 0px 3.82px 0;
+}
+
+.faq_margin{
+    margin-bottom:23px;
+}
+.faq_margin2{
+    margin-bottom:24px;
+}
+
+.faq_gap{
+    gap: 47px;
+}

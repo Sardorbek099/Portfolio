@@ -1,0 +1,112 @@
+.education_section {
+    padding-top: 148px;
+}
+
+.education_col {
+    width: 583.19px;
+}
+
+.education_title {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 85px;
+    margin-left: -11px;
+}
+
+.education_card {
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(229, 229, 229, 1);
+    margin-bottom: 32px;
+}
+
+
+.education_card_title {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.card-texts {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 9px;
+}
+
+.education_card_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.education_gap {
+    gap: 49px;
+}
+
+.education_card_date {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.6);
+    margin-right: 52px;
+}
+
+.mt-1 {
+    margin-right: 47px;
+}
+
+.mt-2 {
+    margin-right: 50px;
+}
+
+.education_icon {
+    width: 25px;
+    height: 25px;
+    margin-top: -34px;
+}
+
+.card_width {
+    width: 100%;
+}
+
+.forGap {
+    gap: 19px;
+}
+
+.education_title2 {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 85px;
+    margin-left: -15px;
+}
+
+.mb-1{
+    margin-right: 59px;
+}
+
+.experience_img{
+    /* margin-top: 3px;
+    margin-left: -1px; */
+    height: 50px;
+    width: 50px;
+}

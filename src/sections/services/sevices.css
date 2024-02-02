@@ -1,0 +1,30 @@
+.services_section {
+    padding-top: 74px;
+    z-index: 3;
+}
+
+.services_title {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 4px;
+    text-align: center;
+    color: rgba(255, 94, 105, 1);
+    text-transform: uppercase;
+}
+
+.services_description {
+    font-family: 'Roboto';
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    margin: 17px 0 114.73px 0;
+}
+
+.services_gap{
+    gap: 90px;
+}

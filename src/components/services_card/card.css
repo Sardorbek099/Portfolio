@@ -1,0 +1,46 @@
+.services_card {
+    width: 306px;
+    z-index: 3;
+}
+
+.services_card img {
+    width: 70px;
+    height: 70px;
+}
+
+.services_card_title {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 37px;
+}
+
+.services_card_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(102, 102, 102, 1);
+    margin: 26px 54px 21.73px 0px;
+}
+
+.services_card_navbar {
+    list-style-type: square;
+    margin-left: 16px;
+}
+
+.services_card_navbar_item {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 10px
+}

@@ -1,0 +1,88 @@
+.feedback_section {
+    padding-top: 160px;
+    padding-bottom: 158px;
+}
+
+.feedback_title {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 4px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(67, 83, 255, 1);
+}
+
+.feedback_description {
+    font-family: 'Roboto';
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin: 18px 0 85px 0;
+}
+
+.feedback_col1 {
+    width: 485px;
+}
+
+.feedback_col1 img {
+    width: 100%;
+}
+
+.feedback_col2 {
+    width: 583.19px;
+    margin-top: 24px;
+}
+
+.comment {
+    width: 45px;
+    height: 45px;
+}
+
+.feedback_text {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin: 30px 0 110px 0;
+}
+
+.feedback_footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.feedback_author {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.feedback_work {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 8px;
+}
+
+.feedback_button button{
+    margin-top: -4px;
+    padding: 20px 23px 19px 21px;
+    background-color: rgba(0, 0, 0, 1);
+    border: none;
+}
